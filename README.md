@@ -19,8 +19,6 @@ Start the development server with npm start or node server.js.
 # Contributions:                                                                                                
 Contributions are welcome! Whether you want to add new features, improve existing code, or fix issues, please feel free to open a pull request and collaborate with us.
 
-# License:
-This project is open-source and available under the MIT License.
 
 # Disclaimer:
 This repository is intended for educational and learning purposes. It provides a basic setup for working with MongoDB and Express.js. For production-ready applications, additional security and performance considerations are essential.
